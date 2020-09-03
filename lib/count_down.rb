@@ -5,3 +5,5 @@ while count > 0 do
   count -= 1
   break if count == 0
 end
+
+puts "Happy New Year!"
